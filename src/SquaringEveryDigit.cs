@@ -1,7 +1,8 @@
 using System;
 
-namespace Kata{
-    public static int SquareDigits(int n){
+namespace CsharpPractice{
+    class SquaringEveryDigit{
+        public int SquareDigits(int n){
         int Squared = 0;
         int digitPlace = 0;
         while(n > 0){
@@ -15,4 +16,6 @@ namespace Kata{
         }
         return Squared;
     }
+    }
+    
 }

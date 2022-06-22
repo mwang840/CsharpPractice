@@ -1,12 +1,11 @@
-﻿using static Kata;
+﻿using System;
 
-namespace SquaringEveryDigit
+namespace CsharpPractice
 {
-    class SquareDigits{
+    class Program{
         static void main(string[] args){
         int squaredAll = 3351;
-        Console.Write("Initial Number is  " + number + "\n");
-        Console.Write("Now new number is " + SquareDigits(squaredAll));
+        Console.Write("Initial Number is  " + squaredAll + "\n");
     }
     }
 }

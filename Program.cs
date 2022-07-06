@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CsharpPractice
 {
@@ -9,6 +9,3 @@ namespace CsharpPractice
     }
     }
 }
-
-// See https://aka.ms/new-console-template for more information
-
